@@ -1,0 +1,6 @@
+HI this is our first note pad folder to be uploded in the git.
+I want to go in the commit 2 
+changed by rajus
+This is changed now by Raju kumar vishwakarma
+now this is changed
+now this is changed by raju kumar vishwakamra and this is going to be tthe initial commit hi my name is raju kumar vishwakamra and this is our first commit by the way

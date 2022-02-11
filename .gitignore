@@ -1,0 +1,4 @@
+*.log
+/dir/
+abcd.accdb
+master
